@@ -1,0 +1,7 @@
+<!ENTITY  spdyindicator.tooltipInactive   "SPDY は使われていません">
+<!ENTITY  spdyindicator.tooltipActive     "SPDY がトップレベルで有効です">
+<!ENTITY  spdyindicator.tooltipSubactive  "SPDY は一部のドキュメントで有効です">
+<!ENTITY  spdyindicator.tooltipSPDY2      "SPDY 2 がトップレベルで有効です">
+<!ENTITY  spdyindicator.tooltipSPDY3      "SPDY 3 がトップレベルで有効です">
+<!ENTITY  spdyindicator.tooltipSPDY31     "SPDY 3.1 がトップレベルで有効です">
+<!ENTITY  spdyindicator.tooltipHTTP2      "HTTP/2 がトップレベルで有効です">
